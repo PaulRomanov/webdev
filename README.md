@@ -1,1 +1,1 @@
-https://PaulRomanov.github.io/webdev/
+https://PaulRomanov.github.io/webdev/index.html
